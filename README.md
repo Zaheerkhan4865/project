@@ -66,3 +66,11 @@ ModernAgri is a modern web platform designed to assist farmers in improving thei
 ### **Conclusion**
 ModernAgri is designed to be a comprehensive digital assistant for farmers, integrating AI and technology to make farming smarter, more efficient, and sustainable. With its user-friendly interface, informative content, and interactive features, the platform aims to revolutionize agricultural practices and empower farmers worldwide.
 
+### **Steps to setup project locally**
+   - Step-1. Download the repositiory in zip file in your computer.
+   - Step-2. Unzip the repositiory inside a folder.
+   - Step-3. Now open the folder with VS code.
+   - Step-4. Now open the index.html file with live server or any other browser,now you can access the website.
+
+   ### **Alternatively you  can visit the below link **
+   https://zaheerkhan4865.github.io/project/
