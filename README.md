@@ -57,7 +57,7 @@ ModernAgri is a modern web platform designed to assist farmers in improving thei
 ---
 ### **Technology Used**
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js, Express.js,Firebase
 - **Database:** Firebase (Planned for future expansion)
 - **APIs:** OpenWeather API for weather forecasts, Google Translate API for language support, Gemini API for chatbot integration(Planned for future expansion)
 - **Libraries & Frameworks:** GSAP for animations, Locomotive Scroll for smooth scrolling, Font Awesome for icons
